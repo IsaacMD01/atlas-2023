@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Novakukis",
+	"description": "un dibujito de la cumunidad de emikukis y justnova ",
+	"links": {},
+	"path": {
+		"244": [
+			[
+				-405,
+				-807
+			],
+			[
+				-387,
+				-807
+			],
+			[
+				-387,
+				-816
+			],
+			[
+				-405,
+				-816
+			],
+			[
+				-405,
+				-807
+			]
+		]
+	},
+	"center": {
+		"244": [
+			-396,
+			-811
+		]
+	}
+}
